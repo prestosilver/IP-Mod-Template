@@ -1,0 +1,8 @@
+{
+  "name": "Template Mod Does nothing",
+  "description": "An empty template",
+  "main_file": "main.py",
+  "ui_file": "ui.json",
+  "requires": [],
+  "chance": 0
+}
