@@ -39,6 +39,9 @@ GetSlider(id)
 
 GetData(id)
 # gets the data from the module with id id
+
+SetChance(name, chance)
+# sets the chance of the mod name
 ```
 
 ## Json

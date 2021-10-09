@@ -80,7 +80,7 @@ def destroyModule(data):
     """
     return data
 
-def prestige(data):
+def onPrestige(data):
     """
     processes prestige
 
