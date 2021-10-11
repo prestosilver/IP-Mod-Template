@@ -42,6 +42,10 @@ GetData(id)
 
 SetChance(name, chance)
 # sets the chance of the mod name
+
+GetChance(name)
+# returns the chance of the mod name
+# returns -2 if mod isn't loaded
 ```
 
 ## Json
