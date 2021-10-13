@@ -34,6 +34,9 @@ GetRandOf(kind, defaultId, before)
 # defaults to defaultId if tries more than 100 times
 # returns a GenericController object
 
+GetAllOf(kind)
+# gets a list of all modules of kind
+
 GetSlider(id)
 # gets a SliderController from the object id
 
